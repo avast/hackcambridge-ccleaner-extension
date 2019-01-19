@@ -8,7 +8,7 @@ As a very first step, we recommend you read the [What are Extensions?](https://d
 
 Extensions can be loaded in [unpacked mode](https://developer.chrome.com/extensions/getstarted#unpacked) by following these steps in ASB:
 
-- Visit [secure://extensions](secure://extensions) (via: Menu -> More Tools -> Extensions).
+- Visit `secure://extensions` (via: Menu -> More Tools -> Extensions).
 - Enable `Developer mode` by ticking the checkbox in the upper-right corner.
 - Click on the "Load unpacked extension..." button.
 - Select the directory containing the unpacked extension (e.g. [src](./src))
