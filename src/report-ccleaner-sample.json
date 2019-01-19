@@ -1,0 +1,35 @@
+{
+	"report": {
+		"time": 10000,
+		"rules": [
+			{
+				"LangSecRef": "3032",
+				"LangRef"	: "3161",
+				"entries"	: [
+								{
+									"File"	: "c:\\test\\cleanedfile.dat",
+									"Size"	: 100
+								},
+								{
+									"File"	: "c:\\test\\cleanedfile2.dat",
+									"Size"	: 1000
+								}
+				]
+			},
+			{
+				"LangSecRef": "3032",
+				"LangRef"	: "3933",
+				"entries"	: [
+								{
+									"File"	: "www.google.com",
+									"Size"	: 0
+								},
+								{
+									"File"	: "www.facebook.com",
+									"Size"	: 0
+								}
+				]
+			}
+		]					 
+	}
+}
